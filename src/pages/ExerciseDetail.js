@@ -3,7 +3,7 @@ import React from 'react';
 const ExerciseDetail = () => {
 
   return (
-    <>ExerciseDetail</>
+    <div>ExerciseDetail</div>
   )
 }
 
